@@ -1,25 +1,5 @@
 const questions = [
     {
-        question: "What does HTML stand for?",
-        options: [
-            "Hyper Text Markup Language",
-            "Hyperlinks and Text Markup Language",
-            "Home Tool Markup Language",
-            "Hyper Tool Machine Language"
-        ],
-        answer: 0
-    },
-    {
-        question: "What does CSS stand for?",
-        options: [
-            "Creative Style Sheets",
-            "Cascading Style Sheets",
-            "Colorful Style Sheets",
-            "Computer Style Sheets"
-        ],
-        answer: 1
-    },
-    {
         question: "Which property in CSS is used to set the text alignment?",
         options: ["text-align", "align", "text-style", "alignment"],
         answer: 0
@@ -34,6 +14,7 @@ const questions = [
         ],
         answer: 1
     },
+    
     {
         question: "Which CSS property is used to make the text bold?",
         options: ["font-style", "font-weight", "text-decoration", "text-style"],
